@@ -8,3 +8,5 @@ The program automatically searches for all .ITM files within the specified direc
 The converted .GPX files are saved in the same directory as their source .ITM files.
 
 <img width="615" height="584" alt="2026-04-01 15_46_17- ITM to  GPX" src="https://github.com/user-attachments/assets/48dea8dd-ef35-40ea-8975-8a35bc39ec7b" />
+
+<img width="615" height="584" alt="2026-04-01 15_46_17- ITM to  GPX" src="https://github.com/user-attachments/assets/b13877a4-0e96-4ed2-828b-73cb3986c8a6" />
