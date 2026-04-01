@@ -1,0 +1,8 @@
+This software, ITMTOGPX, is provided for personal use only.
+
+You may not:
+- Use this software for commercial purposes
+- Reverse engineer, decompile, or disassemble
+- Redistribute without permission
+
+All rights reserved.
