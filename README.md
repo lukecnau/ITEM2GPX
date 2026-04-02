@@ -1,4 +1,4 @@
-# ITEM2GPX
+# .ITEM to .GPX
 ITM2GPX is a utility designed to extract GPS tracks from HOLUX ezTour for Logger project files (.ITM) and convert them into .GPX format.
 
 It supports batch processing by allowing you to drag and drop multiple files or directories. 
